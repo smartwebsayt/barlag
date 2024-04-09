@@ -43,3 +43,10 @@ input {
 .yer {
     margin-bottom: 40px;
 }
+
+@media screen and (min-width: 480px) {
+    .main {
+      width: 80%;
+      margin-left: 10%;
+    }
+  }
